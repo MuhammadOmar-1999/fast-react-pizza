@@ -28,8 +28,4 @@ LinkButton.propTypes = {
   to: PropTypes.string,
 };
 
-LinkButton.defaultProps = {
-  to: "#",
-};
-
 export default LinkButton;
